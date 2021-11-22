@@ -1,3 +1,5 @@
+# DEPRECATED
+
 # @piximi/gallery-dialog
 
 Piximi’s `GalleryDialog` component
